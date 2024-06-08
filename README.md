@@ -1,1 +1,1 @@
-# tier-1-practice.git.io
+# tier-1-practice.github.io
